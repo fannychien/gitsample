@@ -1,2 +1,1 @@
-# gitsample
-git test
+WP-Hamburger-Fanny-RaiseTech
